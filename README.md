@@ -1,1 +1,1 @@
-![Rizowski](./.imgs/white-rizowski.svg)
+![Rizowski](./.imgs/rizowski.png)
